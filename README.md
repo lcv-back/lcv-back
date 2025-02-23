@@ -6,8 +6,6 @@
 
 🕵️ Ask me about Golang, JavaScript, Java.
 
-👨‍💻 All of my projects are available at [https://github.com/lcv-back](https://github.com/lcv-back)
-
 📫 Contact me: **vikimmich6@gmail.com**<br>
 
 # 💻 Tech Stack:
