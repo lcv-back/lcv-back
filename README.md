@@ -14,14 +14,8 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=augustus281&theme=dark&hide_border=false" alt="GitHub Readme Streak Stats"/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcv-back&show_icons=true&locale=en" alt="tri218138" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcv-back&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages"/>
-
-</div>
-
----
 [![](https://visitcount.itsvg.in/api?id=augustus281&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://github.com/lcv-back/github-stats/blob/master/generated/overview.svg)
