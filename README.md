@@ -4,7 +4,7 @@
 
 🕵️ Ask me about Golang, JavaScript, Java.
 
-📫 Contact me: **vikimmich6@gmail.com**<br>
+📫 Contact me: **vikimmich6@gmail.com** and see what's doing here: **https://lcv-back.github.io/vilecongblog.github.io/**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
